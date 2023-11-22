@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="fR$ZE?{QKS#`_*GW]xu,">mySprite</variable><variable id="rvL:(9!}L{){]9=j`ZLY">pablo</variable><variable type="KIND_SpriteKind" id="5Lz~R`}2;Nbi6um-~N(4">Player</variable><variable type="KIND_SpriteKind" id="1P,_9~hXnm6w2RqJM}w{">Projectile</variable><variable type="KIND_SpriteKind" id="vessh|F7l0;Ai[GBcGFO">Food</variable><variable type="KIND_SpriteKind" id="h2V(S[xSK*d9{T#V#F|D">Enemy</variable></variables><block type="pxt-on-start" id="hwXq%|[aXwzn)x)f{!:+" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="Vr1JQn|Ue/H`w:TQl2Pm"><field name="VAR" id="rvL:(9!}L{){]9=j`ZLY">pablo</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="!+j{0Uj+`aM:mZ,W/ckk"><value name="img"><shadow type="screen_image_picker" id="+d@T%eO=F):)S!R8#(D7"><field name="img">img`
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 
+3 3 . 3 3 3 3 3 3 3 3 3 3 3 3 3 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"+d@T%eO=F):)S!R8#(D7"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="d4@!*{B7U8Np99C`v+C0"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
